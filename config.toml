@@ -2,7 +2,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 patches-source = "ReVanced/revanced-patches"
 integrations-source = "ReVanced/revanced-integrations"
 cli-source = "ReVanced/revanced-cli"
-rv-brand = "ReVanced eXtended"
+rv-brand = "ReVanced"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
