@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 5.11.1)",
-  "versionCode": 89,
-  "zipUrl": "https://github.com/n-buna404/-revanced-extended-/releases/download/89/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches 5.12.1)",
+  "versionCode": 93,
+  "zipUrl": "https://github.com/n-buna404/-revanced-extended-/releases/download/93/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/n-buna404/-revanced-extended-/update/build.md"
 }
