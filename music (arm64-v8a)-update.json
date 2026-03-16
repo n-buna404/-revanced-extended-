@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.50.2.rvp)",
-  "versionCode": 103,
-  "zipUrl": "https://github.com/n-buna404/-revanced-extended-/releases/download/103/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
+  "version": "v8.40.54 (patches 6.0.1.rvp)",
+  "versionCode": 104,
+  "zipUrl": "https://github.com/n-buna404/-revanced-extended-/releases/download/104/music-revanced-module-v8.40.54-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/n-buna404/-revanced-extended-/update/build.md"
 }
