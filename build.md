@@ -8,8 +8,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: ReVanced/revanced-cli-6.0.0-all.jar  
-Patches: ReVanced/patches-6.0.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)  
+Patches: ReVanced/patches-6.1.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)  
 
 Skipped:  
-Patches: inotia00/patches-5.14.1.rvp        
+Patches: inotia00/patches-5.14.1.rvp          
